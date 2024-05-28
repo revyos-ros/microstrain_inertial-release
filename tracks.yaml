@@ -68,7 +68,7 @@ tracks:
     name: upstream
     patches: null
     release_inc: '1'
-    release_repo_url: null
+    release_repo_url: git@github.com:revyos-ros/microstrain_inertial-release.git
     release_tag: ros2-:{version}
     ros_distro: humble
     vcs_type: git
