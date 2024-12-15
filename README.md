@@ -1,3 +1,31 @@
+## microstrain_inertial (jazzy) - 4.5.0-1
+
+The packages in the `microstrain_inertial` repository were released into the `jazzy` distro by running `/tmp/venv/bin/bloom-release -r jazzy microstrain_inertial --override-release-repository-push-url git@github.com:revyos-ros/microstrain_inertial-release.git` on `Sun, 15 Dec 2024 11:40:47 -0000`
+
+These packages were released:
+- `microstrain_inertial_description`
+- `microstrain_inertial_driver`
+- `microstrain_inertial_examples`
+- `microstrain_inertial_msgs`
+- `microstrain_inertial_rqt`
+
+Version of package(s) in repository `microstrain_inertial`:
+
+- upstream repository: https://github.com/LORD-MicroStrain/microstrain_inertial.git
+- release repository: https://github.com/revyos-ros/microstrain_inertial-release.git
+- rosdistro version: `4.5.0-1`
+- old version: `4.4.0-1`
+- new version: `4.5.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## microstrain_inertial (humble) - 4.5.0-1
 
 The packages in the `microstrain_inertial` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble microstrain_inertial --override-release-repository-push-url git@github.com:revyos-ros/microstrain_inertial-release.git` on `Sat, 14 Dec 2024 07:50:55 -0000`
